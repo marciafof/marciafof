@@ -1,6 +1,6 @@
 ## Hello people!👋 I am **MO** ( Marcia if you want to be more formal )
 
-I am a Data Analyst with a background in environmental sciences 🌱. I d
+I am a Data Analyst with a background in environmental sciences 🌱.
 
 ### About Me
 
